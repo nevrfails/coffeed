@@ -16,8 +16,8 @@ body {
 }
 
 .container {
-  max-width: 500px;
-  padding: 15px;
+  max-width: 580px;
+  padding: 40px;
   margin-top: 80px;
 }
 
@@ -27,6 +27,7 @@ h1 {
 	font-size: 44px;
 	margin-bottom: -20px;
   letter-spacing: 1px;
+  color:#2c3e50;
 }
 
 h2 {
@@ -45,6 +46,6 @@ a {
 a:hover {
   color: #FCD682;
 }
-
+p{color:#2c3e50;}
 
 
